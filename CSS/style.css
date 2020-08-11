@@ -1,0 +1,33 @@
+
+
+body {
+    background: #ebc5c5;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+
+}
+
+h1 {
+    color: rgb(139, 167, 92);
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.title {
+    color: rgb(56, 66, 56);
+}
